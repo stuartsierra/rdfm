@@ -1,6 +1,5 @@
 classes/*
 *jar
-pom.xml
 *.iws
 *.ipr
 *.iml
