@@ -17,7 +17,7 @@
 (alias 'core 'clojure.core)
 
 (set! *warn-on-reflection* true)
-(set! *print-meta* false)
+;; (set! *print-meta* false)
 
 ;todo - make these private
 (def #^"[Lorg.openrdf.model.Resource;" NOCONTEXT (make-array org.openrdf.model.Resource 0))
